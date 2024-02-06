@@ -1,4 +1,4 @@
-22676775563273781
+22680048459910184
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85834,6 +85834,13 @@ Connector
 14
 14
 SamacSys_Parts
+503398-1892
+503398-1892
+Connector
+0
+14
+14
+SamacSys_Parts
 5040500491
 504050-0491-1
 Connector
@@ -93155,3 +93162,10 @@ Varistor VF
 0
 2
 2
+microSD_Card
+microSD_Card
+microSD_Card
+
+0
+8
+8
