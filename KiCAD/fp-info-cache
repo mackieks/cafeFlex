@@ -1,4 +1,4 @@
-22680048459910184
+22681755809103411
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93162,6 +93162,13 @@ Varistor VF
 0
 2
 2
+cafeflex
+wificonn
+
+
+0
+20
+20
 microSD_Card
 microSD_Card
 microSD_Card
