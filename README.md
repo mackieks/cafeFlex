@@ -2,11 +2,11 @@
 
 caféflex is an SLC, microSD (MLC replacement, use ISFSHax) and Wi-Fi module relocation FPC for WUP-50 Wii U motherboards. 
 
-**UNTESTED!** Fitment and pinouts may not be perfect yet.
+Tested and working!
 
-<img src="https://github.com/mackieks/cafeflex/blob/main/images/both.png" width=1200>
+<img src="https://github.com/mackieks/cafeflex/blob/main/images/install.jpg" width=500> <img src="https://github.com/mackieks/cafeflex/blob/main/images/install.jpg" width=500>
 
-<img src="https://github.com/mackieks/cafeflex/blob/main/images/layout.png" width=800>
+<img src="https://github.com/mackieks/cafeflex/blob/main/images/layout.png" width=500>
 
 ## License
 Solderpad Hardware License v2.1
