@@ -39,7 +39,6 @@
       8,
       9,
       10,
-      12,
       13,
       14,
       15,
@@ -57,7 +56,6 @@
       27,
       28,
       29,
-      30,
       32,
       33,
       34,
@@ -79,5 +77,18 @@
   },
   "project": {
     "files": []
+  },
+  "schematic": {
+    "selection_filter": {
+      "graphics": true,
+      "images": true,
+      "labels": true,
+      "lockedItems": false,
+      "otherItems": true,
+      "pins": true,
+      "symbols": true,
+      "text": true,
+      "wires": true
+    }
   }
 }
