@@ -4,7 +4,7 @@ caféflex is an SLC, microSD (MLC replacement, use ISFSHax) and Wi-Fi module rel
 
 Tested and working!
 
-<img src="https://github.com/mackieks/cafeflex/blob/main/images/install.jpg" width=500> <img src="https://github.com/mackieks/cafeflex/blob/main/images/install.jpg" width=500>
+<img src="https://github.com/mackieks/cafeflex/blob/main/images/install.jpg" width=500> <img src="https://github.com/mackieks/cafeflex/blob/main/images/install2.jpg" width=500>
 
 <img src="https://github.com/mackieks/cafeflex/blob/main/images/layout.png" width=500>
 
